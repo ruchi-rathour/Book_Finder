@@ -244,50 +244,10 @@ The built files will be in the `dist/` directory.
 - **Analytics**: User behavior tracking
 - **PWA Features**: Install prompt and offline support
 
-## 🐛 Troubleshooting
-
-### Common Issues
-
 **Search not working**
-- Check internet connection
-- Verify Open Library API is accessible
-- Clear browser cache and reload
-
-**Images not loading**
-- Book covers may not be available for all books
-- Fallback "No Cover" placeholder should display
-- Check network connectivity
-
-**Theme not persisting**
-- Ensure localStorage is enabled in browser
-- Check for browser privacy settings blocking storage
-
-**Performance issues**
-- Reduce number of results displayed
-- Check for browser extensions interfering
-- Ensure device meets minimum requirements
 
 ## 📄 License
 
 This project is open source and available under the MIT License.
 
-## 🙏 Credits
-
-- **Open Library API**: Provided by the Internet Archive
-- **shadcn/ui**: Beautiful and accessible UI components
-- **Tailwind CSS**: Utility-first CSS framework
-- **Lucide Icons**: Beautiful and consistent icon set
-- **React**: The library for web and native user interfaces
-- **Vite**: Next generation frontend tooling
-
-## 📞 Support
-
-For issues, questions, or contributions:
-1. Check the troubleshooting section above
-2. Review the code comments for implementation details
-3. Test the application thoroughly before deployment
-
----
-
-**Built with ❤️ using React and modern web technologies**
 
